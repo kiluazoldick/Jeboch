@@ -1,6 +1,6 @@
 # JeBoch - Plateforme Éducative Frontend 🎓
 
-![JeBoch Screenshot](https://via.placeholder.com/800x400/000000/ED1C24?text=JeBoch+Screenshots) 
+![JeBoch Screenshot]([https://via.placeholder.com/800x400/000000/ED1C24?text=JeBoch+Screenshots](https://github.com/kiluazoldick/Jeboch/blob/main/dashboard.png)) 
 
 Un prototype frontend pour une plateforme d'éducation inspirée d'OpenClassroom. **Ce projet est 100% frontend** - aucune interaction backend ou système d'authentification n'est implémenté.
 
